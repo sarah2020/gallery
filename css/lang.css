@@ -1,0 +1,10 @@
+﻿/***********lang***********/
+.ar {
+  /* direction: rtl;*/
+}
+body.en :lang(ar) {
+  display: none;
+}
+body.ar :lang(en) {
+  display: none;
+}
